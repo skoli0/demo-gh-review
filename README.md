@@ -1,3 +1,3 @@
 # demo-gh-review
-# feature 1
-# release 1
+# feature 1.0
+# release 1.0
