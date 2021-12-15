@@ -6,11 +6,15 @@ All releasable changes to this project will be documented in this file.
 
 ## [0.0.1] - 2021-12-15
 
+## [0.0.1] - 2021-12-15
+
 ## [0.0.2] - 2021-12-14
 
 ## [0.0.1] - 2021-12-14
 
 [Unreleased]: https://github.com/skoli0/demo-gh-review/compare/0.0.1...HEAD
+
+[0.0.1]: https://github.com/skoli0/demo-gh-review/compare/0.0.1...0.0.1
 
 [0.0.1]: https://github.com/skoli0/demo-gh-review/compare/0.0.2...0.0.1
 
