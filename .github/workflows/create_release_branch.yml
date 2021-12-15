@@ -9,7 +9,7 @@ on:
         description: 'Version number (10100)'
         required: true
 jobs:
-  createrelease:
+  create-release-branch:
     runs-on: ubuntu-latest
 
     steps:
