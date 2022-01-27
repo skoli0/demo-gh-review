@@ -1,9 +1,9 @@
 # vim: tabstop=8 noexpandtab
 
-.DEFAULT_GOAL := build
+.DEFAULT_GOAL := all
 .PHONY: clean
 
-build: 
+all: 
 	@echo "build"
 	@env
 	
