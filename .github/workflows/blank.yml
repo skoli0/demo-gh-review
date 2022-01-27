@@ -33,4 +33,6 @@ jobs:
       - name: Run make
         env:
           CI: true
-        run: make all
+        run: |
+          env
+          make all
