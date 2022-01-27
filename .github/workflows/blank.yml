@@ -19,8 +19,6 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    env:
-      CI: true
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -33,4 +31,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run make
+        env:
+          CI: true
         run: make all
